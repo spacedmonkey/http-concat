@@ -1,0 +1,10 @@
+{
+    "name"       : "spacedmonkey/nginx-http-concat",
+    "description": "WordPress plugin to perform CSS and Javascript concatenation of individual script files into one resource request.",
+    "homepage"   : "https://github.com/spacedmonkey/http-concat",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "require"    : {
+        "composer/installers": "~1.0"
+    }
+}
